@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/storeinventorypro-1045-63ce8824/inventory_backend"
+}
